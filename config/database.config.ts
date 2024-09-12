@@ -1,3 +1,7 @@
-import {database} from "opticore-database";
+import { mySqlCheckerDatabase, optionalArgumentConnection } from "opticore-core-module";
 
-await database.mongo();
+/**
+ * mySqlCheckerDatabase is function with an optional params.
+ * So if you desire use an optional params define it in .env file.
+ */
+export const dbConnection = (): void => { mySqlCheckerDatabase(optionalArgumentConnection); }
