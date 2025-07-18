@@ -8,7 +8,7 @@ module.exports = {
     apps: [
         {
             name: 'prod', // pm2 start App name
-            script: 'src/server.ts',
+            script: 'src/webApp.server.ts',
             exec_mode: 'cluster', // 'cluster' or 'fork'
             instance_var: 'INSTANCE_ID', // instance variable
             instances: 2, // pm2 instance count
@@ -27,7 +27,7 @@ module.exports = {
         {
             name: 'dev', // pm2 start App name
             script: 'ts-node', // ts-node
-            args: '-r tsconfig-paths/register --transpile-only src/server.ts', // ts-node args
+            args: '-r tsconfig-paths/register --transpile-only src/webApp.server.ts', // ts-node args
             exec_mode: 'cluster', // 'cluster' or 'fork'
             instance_var: 'INSTANCE_ID', // instance variable
             instances: 2, // pm2 instance count
@@ -39,7 +39,7 @@ module.exports = {
             output: './logs/access.log', // pm2 log file
             error: './logs/error.log', // pm2 error log file
             env: { // environment variable
-                PORT: 3000,
+                PORT: 4200,
                 NODE_ENV: 'development',
             },
         },
@@ -49,8 +49,8 @@ module.exports = {
             user: 'user',
             host: '0.0.0.0',
             ref: 'origin/master',
-            repo: 'https://github.com/guyzoum77/opticore-template.git',
-            path: 'src/server.ts',
+            repo: 'https://github.com/guyzoum77/opticore-template-mysql.git',
+            path: 'src/webApp.server.ts',
             'post-deploy': 'npm install && npm run build && pm2 reload ecosystem.config.js --only prod',
         },
     },
