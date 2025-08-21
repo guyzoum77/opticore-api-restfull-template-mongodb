@@ -1,0 +1,11 @@
+Sun Aug 17 2025 16:27:41 GMT+0000 (Greenwich Mean Time) | ERROR | The port is not correct. Please define a right port with number port.
+Sun Aug 17 2025 16:28:49 GMT+0000 (Greenwich Mean Time) | ERROR | The host is not define, please define them in .env
+Sun Aug 17 2025 16:29:19 GMT+0000 (Greenwich Mean Time) | ERROR | There were problems creating a connection to the MySQL server
+[SERVER] Sun Aug 17 2025 16:30:24 GMT+0000 (Greenwich Mean Time) | Server running | OptiCore server - Server is running at : [4mhttp://localhost:4200[24m
+Sun Aug 17 2025 16:30:24 GMT+0000 (Greenwich Mean Time) | ERROR | Unknown database 'youyou'
+[SERVER] Sun Aug 17 2025 16:30:48 GMT+0000 (Greenwich Mean Time) | Server running | OptiCore server - Server is running at : [4mhttp://localhost:4200[24m
+[SERVER] Sun Aug 17 2025 16:30:48 GMT+0000 (Greenwich Mean Time) | MySQL Connection | Connection successful - The connection to the database hairstyleV2 was completed successfully 🚀
+[SERVER] Sun Aug 17 2025 16:42:31 GMT+0000 (Greenwich Mean Time) | Server running | OptiCore server - Server is running at : [4mhttp://localhost:4200[24m
+[SERVER] Sun Aug 17 2025 16:42:31 GMT+0000 (Greenwich Mean Time) | MySQL Connection | Connection successful - The connection to the database hairstyleV2 was completed successfully 🚀
+[SERVER] Sun Aug 17 2025 16:43:18 GMT+0000 (Greenwich Mean Time) | Serveur est en cours d'exécution | Serveur OptiCore - Le serveur est en cours d'exécution sur : [4mhttp://localhost:4200[24m
+[SERVER] Sun Aug 17 2025 16:43:18 GMT+0000 (Greenwich Mean Time) | Connexion MySQL | Connection réussite - La connexion a la base de donnee hairstyleV2 s'est effectuée avec succès  🚀
