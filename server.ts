@@ -1,1 +1,1 @@
-import "core/infrastructure/server/webApp.server";
+require("./src/bootstrap/server/webApp.server");
