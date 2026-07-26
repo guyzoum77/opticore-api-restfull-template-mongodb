@@ -1,8 +1,8 @@
 import { LocalLanguageLoader, loggerConfig, YamlParsing } from "opticore-webapp-core";
 import { express } from "opticore-express";
+import { MongoCore, QueryBuilder, MongoClientOptions } from "opticore-mongodb";
 import { WebServer, envPath } from "opticore-webapp";
 import { getEnvironmentValue, IEnvVariables } from "opticore-env-access";
-import { OptiCoreMySQLDriver } from "opticore-mysqldb";
 import { ILoggerConfig, LoggerCore} from "opticore-logger";
 import { registerRouter } from "../../app/router/register.router";
 import { dependenciesProvider } from "../../helpers/providers/dependencies.provider";
@@ -11,9 +11,9 @@ import {
     profilerErrorHandler,
     registerProfilerViews,
     createProfilerRouter,
-    instrumentMySQL,
     instrumentLogger,
     FileStorage,
+    instrumentMongoDB, OpticoreProfiler,
 } from "opticore-profiler";
 
 
@@ -45,11 +45,11 @@ const app: WebServer = new WebServer({
     localLanguage: environment.defaultLocal,
     loggerConfig: new LoggerCore(loggerConfig(envPath) as ILoggerConfig),
     hotReload: {
-        rootDir: getEnvironmentValue(envPath).rootDir,
-        watchExtensions: getEnvironmentValue(envPath).watchExtensions,
-        hotReloadExtensions: getEnvironmentValue(envPath).hotReloadExtensions,
-        ignore: getEnvironmentValue(envPath).ignore,
-        debounceMs: getEnvironmentValue(envPath).debounceMs,
+        rootDir: environment.rootDir,
+        watchExtensions: environment.watchExtensions,
+        hotReloadExtensions: environment.hotReloadExtensions,
+        ignore: environment.ignore,
+        debounceMs: environment.debounceMs,
     }
 });
 
@@ -59,7 +59,7 @@ const app: WebServer = new WebServer({
  * code: every `db.query(...)` / `logger.info(...)` call anywhere in the app
  * keeps working exactly as written.
  */
-instrumentMySQL(OptiCoreMySQLDriver);
+instrumentMongoDB(QueryBuilder)
 instrumentLogger(LoggerCore);
 
 /**
@@ -69,9 +69,9 @@ instrumentLogger(LoggerCore);
  * getEnvironmentValue() above) — the same flag the previous debug toolbar
  * used. Defaults to disabled if the flag is missing or not "true".
  */
-const profiler = opticoreProfiler({
-    enabled: process.env.PROFILE_WEB_TOOL_BAR === "true",
-    storage: new FileStorage(process.env.PROFILE_CACHE_PATH),
+const profiler: OpticoreProfiler = opticoreProfiler({
+    enabled: environment.profileWebToolbar,
+    storage: new FileStorage(environment.profileCachePath),
 });
 
 /**
@@ -89,7 +89,16 @@ registerProfilerViews((app as any).expressApp, profiler);
  */
 const server = app.onStartServer(
     registerRouter([createProfilerRouter(profiler)]),
-    () => new OptiCoreMySQLDriver(environment, environment.defaultLocal),
+    (): MongoCore => new MongoCore(
+        environment.dataBaseUser,
+        environment.dataBasePassword,
+        environment.dataBaseHost,
+        Number(environment.dataBasePort),
+        environment.defaultLocal,
+        environment.dataBaseDefaultAuth,
+        environment.dataBaseParamList,
+        ({} as MongoClientOptions) // set any options that you want from MongoClientOptions into {}
+    ),
     dependenciesProvider
 );
 

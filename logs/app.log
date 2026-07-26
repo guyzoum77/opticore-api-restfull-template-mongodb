@@ -1,0 +1,201 @@
+[SERVER] 07/22/2026, 23:47 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 07/22/2026, 23:47 | Dependencies container | DEPENDENCIES_CONTAINER - No dependencies are recorded in the container.
+7/22/2026, 11:47:25 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/[39m
+   [1m[42m Request content [49m[22m -  [ Response ] [97mHTML_CONTENT_HASHED b7974a35091508b77c71965819bc72add6cd4d08042d2cbe5d21a46a94766e2a[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:47:25 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/home-page.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:47:25 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/home-particles.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:47:25 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/toolbar-standalone.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:47:25 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/wdt/eyszvp5c[39m
+   [1m[42m Request content [49m[22m - [96m[ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED c40045b93e0b8990e60e0e9af5f3576d59cf72dce4037c22144dd2d66e822e3e[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:47:25 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/toolbar.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:47:25 PM | ERROR | [41m[37m Not found [39m[49m [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [31m/favicon.ico[39m -  [ Response ]  - [1m[31m[ Status ][39m[22m [41m[37m 404 [39m[49m
+7/22/2026, 11:48:24 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=performance[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"performance"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 298e41963a13d307ba77c448c7c869cf5bba333f590830bfb21b57d053344020[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:48:24 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:48:24 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:48:53 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=performance&lang=fr[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"performance","lang":"fr"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED fd7d5866c4b54ddf2a61167900b50d4f30a07a730e7a889735c18efbe9d0963a[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:48:53 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:48:53 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:48:55 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=performance&lang=fr[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"performance","lang":"fr"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 30116ec5bf29622f062061d3594d1c042d8fb0df139a134931454208aadf65ac[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:48:55 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:48:55 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:48:58 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=performance&lang=en[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"performance","lang":"en"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED e854481217119d2d312a3572f8003627a1ea291525ae2a4d4bb3169a2112a91f[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:48:58 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:48:58 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:00 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=performance&lang=fr[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"performance","lang":"fr"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 307b052e79b03e5149284b7d5d2cc3197fa57964f51020312e22099ba6cf2707[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:49:00 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:00 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:01 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=performance&lang=en[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"performance","lang":"en"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED d1eb1d5b005679feb5e470f5c4663408e473c76046cb63b53c40796a16c9b62a[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:49:01 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:01 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:02 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=performance&lang=fr[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"performance","lang":"fr"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED a2938467c1cd4c154d25a83cfd04c967f6f34b9d724c894f9377e02702eee2bc[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:49:02 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:02 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:05 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=performance&lang=en[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"performance","lang":"en"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED afcb11b9baa6a230d51571e4bf68e19e0524e92f9aa9507ab17e40410e3ba646[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:49:05 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:05 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:36 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=exception[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"exception"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 5253a6bc4c1fdad9a5320eb979c28a5ae826b75c0ad03cf739e04b00a727e627[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:49:36 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:36 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:37 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=logs[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"logs"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 4b519ddc2d3c29bf78bde12d1b4313b3bb5b5d972fc71183429e515f53011e0d[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:49:37 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:37 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:38 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=routes[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"routes"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 078a68cc2d83c1520058f46a10a8c33b77258908ded6bbc3a80e239c8e104e02[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:49:38 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:38 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:39 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=routing[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"routing"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 29403c9208d219bf1a14f33f0c07ed82a0cbec653f4c92e347b60f0684b55ae5[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:49:39 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:39 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:40 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=database[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"database"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 82fda6bd403450ee7d5db405927ec636c3a2d1e26e1d20208dae31b329d88215[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:49:40 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:40 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:41 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/eyszvp5c?panel=configuration[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"configuration"} - [ params ] {"token":"eyszvp5c"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 7f357c728893828adad570e6dd8fb1646a2bd981e60e6317e49e2d5c1224aed8[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/22/2026, 11:49:41 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:49:41 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/22/2026, 11:50:29 PM | SUCCESS | serverWebStopped
+7/22/2026, 11:50:29 PM | SUCCESS | finishingProcessWell
+[SERVER] 07/24/2026, 22:22 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 07/24/2026, 22:22 | Dependencies container | DEPENDENCIES_CONTAINER - No dependencies are recorded in the container.
+7/24/2026, 10:22:54 PM | SUCCESS | serverWebStopped
+7/24/2026, 10:22:54 PM | SUCCESS | finishingProcessWell
+[SERVER] 07/24/2026, 22:52 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 07/24/2026, 22:52 | Dependencies container | DEPENDENCIES_CONTAINER - No dependencies are recorded in the container.
+7/24/2026, 10:52:50 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/[39m
+   [1m[42m Request content [49m[22m -  [ Response ] [97mHTML_CONTENT_HASHED b7974a35091508b77c71965819bc72add6cd4d08042d2cbe5d21a46a94766e2a[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:52:50 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/home-page.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:52:50 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/toolbar-standalone.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:52:50 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/home-particles.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:52:50 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/wdt/p057c2a5[39m
+   [1m[42m Request content [49m[22m - [96m[ params ] {"token":"p057c2a5"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 4b77af679d43f7b7931e8a5cde2d5c0773df1b1dd9086fa3634e03d56f3ef981[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:52:50 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/toolbar.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:05 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/?lang=fr[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"lang":"fr"} - [39m [ Response ] [97mHTML_CONTENT_HASHED dcf4e4d8cc45908703c5f3c6e6c445895e14a4fd35f1732fdf6994360e1ec5c9[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:05 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/home-page.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:05 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/toolbar-standalone.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:05 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/home-particles.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:05 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/wdt/r2drcb3v[39m
+   [1m[42m Request content [49m[22m - [96m[ params ] {"token":"r2drcb3v"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 2b82ad8043babf9482614a9dd98cb664d19d49a579878d107801ebc7cff7294b[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:05 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/toolbar.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:11 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/?lang=en[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"lang":"en"} - [39m [ Response ] [97mHTML_CONTENT_HASHED b7974a35091508b77c71965819bc72add6cd4d08042d2cbe5d21a46a94766e2a[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:11 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/home-page.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:11 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/home-particles.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:11 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/toolbar-standalone.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:11 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/wdt/n39a6ufz[39m
+   [1m[42m Request content [49m[22m - [96m[ params ] {"token":"n39a6ufz"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 46d2af01bec84ba622b60dd46e12a7079622a12b019c362b4969409c36476583[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:11 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/toolbar.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:12 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/?lang=fr[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"lang":"fr"} - [39m [ Response ] [97mHTML_CONTENT_HASHED dcf4e4d8cc45908703c5f3c6e6c445895e14a4fd35f1732fdf6994360e1ec5c9[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:12 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/home-page.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:12 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/toolbar-standalone.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:12 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/home-particles.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:12 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/wdt/ulxjq3gc[39m
+   [1m[42m Request content [49m[22m - [96m[ params ] {"token":"ulxjq3gc"} - [39m [ Response ] [97mHTML_CONTENT_HASHED fdc121124ede37ae103cd6eea2d3bda7b6e517f5d10570463c4837aa391e6a65[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:12 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/toolbar.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:15 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/?lang=en[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"lang":"en"} - [39m [ Response ] [97mHTML_CONTENT_HASHED b7974a35091508b77c71965819bc72add6cd4d08042d2cbe5d21a46a94766e2a[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:15 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/home-page.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:15 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/home-particles.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:15 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/toolbar-standalone.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:15 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/wdt/uy42uea7[39m
+   [1m[42m Request content [49m[22m - [96m[ params ] {"token":"uy42uea7"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 75c76f338cb78c8d7adbd8ccc14e2a47eaee79198004e0b809ac35d45d88bd26[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:15 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/toolbar.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:17 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/?lang=fr[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"lang":"fr"} - [39m [ Response ] [97mHTML_CONTENT_HASHED dcf4e4d8cc45908703c5f3c6e6c445895e14a4fd35f1732fdf6994360e1ec5c9[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:17 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/home-page.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:17 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/toolbar-standalone.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:17 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/home-particles.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:17 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/wdt/bpxfsppl[39m
+   [1m[42m Request content [49m[22m - [96m[ params ] {"token":"bpxfsppl"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 873efdec44b4ab1d4e5bf020722dd1602ba75c546b2dce40cd933fc079ec00c8[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:17 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/toolbar.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:19 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/?lang=en[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"lang":"en"} - [39m [ Response ] [97mHTML_CONTENT_HASHED b7974a35091508b77c71965819bc72add6cd4d08042d2cbe5d21a46a94766e2a[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:19 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/home-page.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:19 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/toolbar-standalone.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:19 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/home-particles.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 10:53:19 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/wdt/5kkg0shd[39m
+   [1m[42m Request content [49m[22m - [96m[ params ] {"token":"5kkg0shd"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 12ff73b0ecb118134e11813792de985584dc4a6a95c8de46a4456a2f7d05c1a9[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 10:53:19 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/toolbar.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+7/24/2026, 11:01:35 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/add-users[39m
+   [1m[42m Request content [49m[22m -  [ Response ] [97m{"status":"success","message":"created","statusCode":201,"data":{"id":"0d27cf9a-2e6c-4559-8980-a6cd2e834b12","firstName":"arnaud","lastName":"kablan","email":"kabson@gmail.com","createdAt":"2026-07-24T23:01:35.321Z","updatedAt":"2026-07-24T23:01:35.321Z"},"apiVersion":null}[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 11:01:38 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/add-users[39m
+   [1m[42m Request content [49m[22m -  [ Response ] [97m{"status":"success","message":"created","statusCode":201,"data":{"id":"7ad86930-2551-4b74-9ba1-2005a9bea4ff","firstName":"arnaud","lastName":"kablan","email":"kabson@gmail.com","createdAt":"2026-07-24T23:01:38.492Z","updatedAt":"2026-07-24T23:01:38.492Z"},"apiVersion":null}[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 11:01:39 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/add-users[39m
+   [1m[42m Request content [49m[22m -  [ Response ] [97m{"status":"success","message":"created","statusCode":201,"data":{"id":"2bd89326-cfbf-4977-80b9-effdd9aacd38","firstName":"arnaud","lastName":"kablan","email":"kabson@gmail.com","createdAt":"2026-07-24T23:01:39.457Z","updatedAt":"2026-07-24T23:01:39.457Z"},"apiVersion":null}[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 11:01:40 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/add-users[39m
+   [1m[42m Request content [49m[22m -  [ Response ] [97m{"status":"success","message":"created","statusCode":201,"data":{"id":"6431adc2-7864-4653-b6c2-3fad6aebd756","firstName":"arnaud","lastName":"kablan","email":"kabson@gmail.com","createdAt":"2026-07-24T23:01:40.159Z","updatedAt":"2026-07-24T23:01:40.159Z"},"apiVersion":null}[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+7/24/2026, 11:01:40 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/add-users[39m
+   [1m[42m Request content [49m[22m -  [ Response ] [97m{"status":"success","message":"created","statusCode":201,"data":{"id":"a876dd25-a02d-4e89-b5ee-20a3636cdc69","firstName":"arnaud","lastName":"kablan","email":"kabson@gmail.com","createdAt":"2026-07-24T23:01:40.875Z","updatedAt":"2026-07-24T23:01:40.875Z"},"apiVersion":null}[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
