@@ -2,4 +2,4 @@ node_modules/
 .idea/
 .vscode/localhost
 localhost
-src/core/private.pem
+src/core/keys/private.pem
