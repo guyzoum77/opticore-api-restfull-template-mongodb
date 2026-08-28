@@ -1,0 +1,488 @@
+[SERVER] 08/01/2026, 23:01 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 08/01/2026, 23:01 | Dependencies container | DEPENDENCIES_CONTAINER - No dependencies are recorded in the container.
+8/1/2026, 11:17:01 PM | ERROR | Cannot find module 'opticore-webapp'
+Require stack:
+- /Users/guyserge.kouacou/Documents/own-projects/backend nodejs/framework/opticore/packages/opticore-webApp/node_modules/opticore-loader-translation/dist/index.js
+8/1/2026, 11:17:01 PM | ERROR | Cannot find module 'opticore-webapp'
+Require stack:
+- /Users/guyserge.kouacou/Documents/own-projects/backend nodejs/framework/opticore/packages/opticore-webApp/node_modules/opticore-loader-translation/dist/index.js
+8/1/2026, 11:17:01 PM | ERROR | Cannot find module 'opticore-webapp'
+Require stack:
+- /Users/guyserge.kouacou/Documents/own-projects/backend nodejs/framework/opticore/packages/opticore-webApp/node_modules/opticore-loader-translation/dist/index.js
+8/1/2026, 11:17:01 PM | ERROR | Cannot find module 'opticore-webapp'
+Require stack:
+- /Users/guyserge.kouacou/Documents/own-projects/backend nodejs/framework/opticore/packages/opticore-webApp/node_modules/opticore-loader-translation/dist/index.js
+8/1/2026, 11:17:01 PM | ERROR | Cannot find module 'opticore-webapp'
+Require stack:
+- /Users/guyserge.kouacou/Documents/own-projects/backend nodejs/framework/opticore/packages/opticore-webApp/node_modules/opticore-loader-translation/dist/index.js
+8/1/2026, 11:17:01 PM | ERROR | Cannot find module 'opticore-webapp'
+Require stack:
+- /Users/guyserge.kouacou/Documents/own-projects/backend nodejs/framework/opticore/packages/opticore-webApp/node_modules/opticore-loader-translation/dist/index.js
+8/1/2026, 11:17:01 PM | ERROR | Cannot find module 'opticore-webapp'
+Require stack:
+- /Users/guyserge.kouacou/Documents/own-projects/backend nodejs/framework/opticore/packages/opticore-webApp/node_modules/opticore-loader-translation/dist/index.js
+8/1/2026, 11:17:01 PM | ERROR | Cannot find module 'opticore-webapp'
+Require stack:
+- /Users/guyserge.kouacou/Documents/own-projects/backend nodejs/framework/opticore/packages/opticore-webApp/node_modules/opticore-loader-translation/dist/index.js
+8/1/2026, 11:17:01 PM | ERROR | Cannot find module 'opticore-webapp'
+Require stack:
+- /Users/guyserge.kouacou/Documents/own-projects/backend nodejs/framework/opticore/packages/opticore-webApp/node_modules/opticore-loader-translation/dist/index.js
+8/1/2026, 11:17:01 PM | ERROR | listen EADDRINUSE: address already in use :::4200
+8/1/2026, 11:18:07 PM | ERROR | processPIDReceivedSignal
+8/1/2026, 11:18:07 PM | SUCCESS | finishingProcessWell
+8/1/2026, 11:31:00 PM | ERROR | processPIDReceivedSignal
+8/1/2026, 11:31:00 PM | SUCCESS | finishingProcessWell
+[SERVER] 08/01/2026, 23:31 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 08/01/2026, 23:31 | Dependencies container | DEPENDENCIES_CONTAINER - Dependencies stored in container : LoggerCore, OpticoreLogger
+8/1/2026, 11:31:23 PM | ERROR | processPIDReceivedSignal
+8/1/2026, 11:31:23 PM | SUCCESS | finishingProcessWell
+[SERVER] 08/01/2026, 23:35 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 08/01/2026, 23:35 | Dependencies container | DEPENDENCIES_CONTAINER - No dependencies are recorded in the container.
+8/1/2026, 11:35:55 PM | ERROR | processPIDReceivedSignal
+8/1/2026, 11:35:55 PM | SUCCESS | finishingProcessWell
+[SERVER] 08/01/2026, 23:38 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 08/01/2026, 23:38 | Dependencies container | DEPENDENCIES_CONTAINER - Dependencies stored in container : LoggerCore, OpticoreLogger
+8/1/2026, 11:38:46 PM | ERROR | processPIDReceivedSignal
+8/1/2026, 11:38:46 PM | SUCCESS | finishingProcessWell
+[SERVER] 08/01/2026, 23:59 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 08/01/2026, 23:59 | Dependencies container | DEPENDENCIES_CONTAINER - No dependencies are recorded in the container.
+8/2/2026, 12:06:05 AM | SUCCESS | serverWebStopped
+8/2/2026, 12:06:05 AM | SUCCESS | finishingProcessWell
+[SERVER] 08/02/2026, 00:06 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 08/02/2026, 00:06 | Dependencies container | DEPENDENCIES_CONTAINER - Dependencies stored in container : LoggerCore, OpticoreLogger
+8/2/2026, 12:06:36 AM | SUCCESS | serverWebStopped
+8/2/2026, 12:06:37 AM | SUCCESS | finishingProcessWell
+[SERVER] 08/02/2026, 21:09 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 08/02/2026, 21:09 | Dependencies container | DEPENDENCIES_CONTAINER - Dependencies stored in container : LoggerCore, OpticoreLogger
+8/2/2026, 9:09:34 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/[39m
+   [1m[42m Request content [49m[22m -  [ Response ] [97mHTML_CONTENT_HASHED b7974a35091508b77c71965819bc72add6cd4d08042d2cbe5d21a46a94766e2a[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:09:34 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/home-page.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:09:34 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/home-particles.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:09:34 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/toolbar-standalone.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:09:34 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/wdt/sl7wa1m1[39m
+   [1m[42m Request content [49m[22m - [96m[ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 84297e080380481245beab564b5b2225079be82bb25dbc9bce783c033478fc7c[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:09:34 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/toolbar.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:09:34 PM | ERROR | [41m[37m Not found [39m[49m [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [31m/favicon.ico[39m -  [ Response ]  - [1m[31m[ Status ][39m[22m [41m[37m 404 [39m[49m
+8/2/2026, 9:10:08 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=performance[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"performance"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 8383fc9adb557f9ecad86ef527c9ea96720b5ca6c9149ae486cb4e3bab194a74[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:10:08 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:10:08 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:10:12 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=logs[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"logs"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED d78a24a8335862628c0cc8134db96706ca46ac5d13fd9312ccc0a5c1607c41c1[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:10:12 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:12 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:13 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=routes[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"routes"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 67e7feb0af991aa5d4a26035f233af38b2c2244498f3f2391f04bc397995803d[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:10:13 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:13 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:27 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=routes&lang=fr[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"routes","lang":"fr"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED cedabcfccb520e0f2835b98ef6c494e975bed6d3d3b4688a33a03238035b5a7a[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:10:28 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:28 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:29 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=routes&lang=en[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"routes","lang":"en"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 67e7feb0af991aa5d4a26035f233af38b2c2244498f3f2391f04bc397995803d[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:10:29 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:29 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:31 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=routes&lang=fr[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"routes","lang":"fr"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED cedabcfccb520e0f2835b98ef6c494e975bed6d3d3b4688a33a03238035b5a7a[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:10:31 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:31 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:32 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=routes&lang=en[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"routes","lang":"en"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 67e7feb0af991aa5d4a26035f233af38b2c2244498f3f2391f04bc397995803d[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:10:32 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:32 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:40 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=logs[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"logs"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED d78a24a8335862628c0cc8134db96706ca46ac5d13fd9312ccc0a5c1607c41c1[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:10:40 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:10:40 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:01 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=logs[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"logs"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED d78a24a8335862628c0cc8134db96706ca46ac5d13fd9312ccc0a5c1607c41c1[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:48:01 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:01 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:04 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=logs[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"logs"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED d78a24a8335862628c0cc8134db96706ca46ac5d13fd9312ccc0a5c1607c41c1[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:48:04 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:04 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:06 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler[39m
+   [1m[42m Request content [49m[22m -  [ Response ] [97mHTML_CONTENT_HASHED 216e8c010c379fa35ec1aa2d8ebe381d560a39188227a8796e1036e60f349c11[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:48:06 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-list.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:48:06 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-list.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:48:08 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1[39m
+   [1m[42m Request content [49m[22m - [96m[ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED 125ba39af75bd8ebbf5bc2f01e14cae048253e962a74d210233c4affc8b2ebbb[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:48:08 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:08 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:10 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=logs[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"logs"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED d78a24a8335862628c0cc8134db96706ca46ac5d13fd9312ccc0a5c1607c41c1[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:48:10 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:10 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:50 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=logs[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"logs"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED d78a24a8335862628c0cc8134db96706ca46ac5d13fd9312ccc0a5c1607c41c1[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:48:50 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:50 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:51 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/sl7wa1m1?panel=logs[39m
+   [1m[42m Request content [49m[22m - [96m[ query ] {"panel":"logs"} - [ params ] {"token":"sl7wa1m1"} - [39m [ Response ] [97mHTML_CONTENT_HASHED d78a24a8335862628c0cc8134db96706ca46ac5d13fd9312ccc0a5c1607c41c1[39m - [1m[32m[ Status ][39m[22m [42m[37m 200 [39m[49m
+8/2/2026, 9:48:51 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/css/profiler-detail.css[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:48:51 PM | INFO | [ Host ] [4m[1mhttp://localhost:4200[22m[24m - [ Route ] [32m/_profiler/assets/js/profiler-detail.js[39m
+   [1m[42m Request content [49m[22m -  [ Response ]  - [1m[32m[ Status ][39m[22m [42m[37m 304 [39m[49m
+8/2/2026, 9:49:27 PM | SUCCESS | serverWebStopped
+8/2/2026, 9:49:27 PM | SUCCESS | finishingProcessWell
+[SERVER] 08/02/2026, 21:54 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 08/02/2026, 21:54 | Dependencies container | DEPENDENCIES_CONTAINER - Dependencies stored in container : LoggerCore, OpticoreLogger
+8/2/2026, 9:54:08 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/sl7wa1m1?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"sl7wa1m1"} -  [ Response ] HTML_CONTENT_HASHED d78a24a8335862628c0cc8134db96706ca46ac5d13fd9312ccc0a5c1607c41c1 - [ Status ]  200 
+8/2/2026, 9:54:08 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 9:54:08 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 9:56:07 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED b7974a35091508b77c71965819bc72add6cd4d08042d2cbe5d21a46a94766e2a - [ Status ]  200 
+8/2/2026, 9:56:07 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/home-page.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 9:56:07 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/toolbar-standalone.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 9:56:07 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/home-particles.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 9:56:07 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wdt/uw4jxky1
+    Request content  - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED 5cc40127ba709296baff596cb340688d1ee95eb16e739dea29f4c3ae1bb82833 - [ Status ]  200 
+8/2/2026, 9:56:07 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/toolbar.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 9:56:09 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=performance
+    Request content  - [ query ] {"panel":"performance"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED 0d9e9e0f0876d3da4ef3f922411b468c96db92179b85315829c88a64f817820d - [ Status ]  200 
+8/2/2026, 9:56:09 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 9:56:09 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 9:56:18 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED ed22ca612f62f16a4f022963f395bf299bbf3cd4f59e16dcff275460475344a6 - [ Status ]  200 
+8/2/2026, 9:56:18 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 9:56:18 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:04 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED ed22ca612f62f16a4f022963f395bf299bbf3cd4f59e16dcff275460475344a6 - [ Status ]  200 
+8/2/2026, 10:00:04 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:04 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:05 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED ed22ca612f62f16a4f022963f395bf299bbf3cd4f59e16dcff275460475344a6 - [ Status ]  200 
+8/2/2026, 10:00:05 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:05 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:05 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED ed22ca612f62f16a4f022963f395bf299bbf3cd4f59e16dcff275460475344a6 - [ Status ]  200 
+8/2/2026, 10:00:05 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:05 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:07 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED ed22ca612f62f16a4f022963f395bf299bbf3cd4f59e16dcff275460475344a6 - [ Status ]  200 
+8/2/2026, 10:00:07 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:07 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED ed22ca612f62f16a4f022963f395bf299bbf3cd4f59e16dcff275460475344a6 - [ Status ]  200 
+8/2/2026, 10:00:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=exception
+    Request content  - [ query ] {"panel":"exception"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED 8ab0f6e5e7836cccacbbacdce21388c8e06905ea007171d0b4be580bb492b3e2 - [ Status ]  200 
+8/2/2026, 10:00:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:19 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=performance
+    Request content  - [ query ] {"panel":"performance"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED 007aed7c68c718882ad768eac7699e98171d16511b996d09e1e80a46fa251adb - [ Status ]  200 
+8/2/2026, 10:00:19 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:19 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:58 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=performance&lang=fr
+    Request content  - [ query ] {"panel":"performance","lang":"fr"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED a44810a07ae9de2ffbdeebab0312e2553d389702a0189f959d4a07697fa18431 - [ Status ]  200 
+8/2/2026, 10:00:58 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:00:58 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:01:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/latest
+    Request content  -  [ Response ]  - [ Status ]  302 
+8/2/2026, 10:01:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1
+    Request content  - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED b943f65c6743a0d704ab3b3ad753f2f1ed0b8b244118952fbed19d30bff56ed3 - [ Status ]  200 
+8/2/2026, 10:01:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:01:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:01:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler
+    Request content  -  [ Response ] HTML_CONTENT_HASHED 0b77dfc8a2950ac918724ec46bb67ba584c0b9abfb4eb83f321400bf84658162 - [ Status ]  200 
+8/2/2026, 10:01:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-list.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:01:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-list.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:01:21 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/latest
+    Request content  -  [ Response ]  - [ Status ]  302 
+8/2/2026, 10:01:21 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1
+    Request content  - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED b943f65c6743a0d704ab3b3ad753f2f1ed0b8b244118952fbed19d30bff56ed3 - [ Status ]  200 
+8/2/2026, 10:01:21 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  200 
+8/2/2026, 10:01:21 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  200 
+8/2/2026, 10:01:54 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED 0d5fea5053be0d94b337e692c2853f1dd4194cc2adebdab9c82459a8920515a5 - [ Status ]  200 
+8/2/2026, 10:01:54 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:01:54 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:02:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED b7974a35091508b77c71965819bc72add6cd4d08042d2cbe5d21a46a94766e2a - [ Status ]  200 
+8/2/2026, 10:05:12 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED 0d5fea5053be0d94b337e692c2853f1dd4194cc2adebdab9c82459a8920515a5 - [ Status ]  200 
+8/2/2026, 10:05:12 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:12 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED 0d5fea5053be0d94b337e692c2853f1dd4194cc2adebdab9c82459a8920515a5 - [ Status ]  200 
+8/2/2026, 10:05:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/uw4jxky1?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"uw4jxky1"} -  [ Response ] HTML_CONTENT_HASHED 0d5fea5053be0d94b337e692c2853f1dd4194cc2adebdab9c82459a8920515a5 - [ Status ]  200 
+8/2/2026, 10:05:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:23 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED dcf4e4d8cc45908703c5f3c6e6c445895e14a4fd35f1732fdf6994360e1ec5c9 - [ Status ]  200 
+8/2/2026, 10:05:23 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/home-page.css
+    Request content  -  [ Response ]  - [ Status ]  200 
+8/2/2026, 10:05:23 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/toolbar-standalone.css
+    Request content  -  [ Response ]  - [ Status ]  200 
+8/2/2026, 10:05:23 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/home-particles.js
+    Request content  -  [ Response ]  - [ Status ]  200 
+8/2/2026, 10:05:23 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wdt/noeqcwxc
+    Request content  - [ params ] {"token":"noeqcwxc"} -  [ Response ] HTML_CONTENT_HASHED a5933fa11fad55e8e949f3e3594e674f40fa6116c1b7bcaf6b8bd3c7bf1f5c1d - [ Status ]  200 
+8/2/2026, 10:05:23 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/toolbar.js
+    Request content  -  [ Response ]  - [ Status ]  200 
+8/2/2026, 10:05:26 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED dcf4e4d8cc45908703c5f3c6e6c445895e14a4fd35f1732fdf6994360e1ec5c9 - [ Status ]  200 
+8/2/2026, 10:05:26 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/home-page.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:26 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/toolbar-standalone.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:26 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/home-particles.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:26 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wdt/9zgy64a2
+    Request content  - [ params ] {"token":"9zgy64a2"} -  [ Response ] HTML_CONTENT_HASHED 17ff87ade0f4ba07272eaa82c08c21b29be0628c6258885915378d40229135fe - [ Status ]  200 
+8/2/2026, 10:05:26 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/toolbar.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:29 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/9zgy64a2?panel=performance
+    Request content  - [ query ] {"panel":"performance"} - [ params ] {"token":"9zgy64a2"} -  [ Response ] HTML_CONTENT_HASHED 26411e9c875958952258d864cbe5640e62da17455121590d48d6c98fed1bde98 - [ Status ]  200 
+8/2/2026, 10:05:29 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:29 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:31 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/9zgy64a2?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"9zgy64a2"} -  [ Response ] HTML_CONTENT_HASHED ba16c757cdd2af23f5a1a97b315ef19f345d119c8f185ed21f8eb99d156a7a27 - [ Status ]  200 
+8/2/2026, 10:05:31 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:31 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:05:51 PM | ERROR | processPIDReceivedSignal
+8/2/2026, 10:05:51 PM | SUCCESS | finishingProcessWell
+[SERVER] 08/02/2026, 22:08 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 08/02/2026, 22:08 | Dependencies container | DEPENDENCIES_CONTAINER - Dependencies stored in container : LoggerCore, OpticoreLogger
+8/2/2026, 10:08:03 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED fcad7f2baa91542d38b40d60f0047b6f2d5eafc035d3205d96a6eb79dd175233 - [ Status ]  200 
+8/2/2026, 10:08:03 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/home-page.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:03 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/toolbar-standalone.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:03 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/home-particles.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:03 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wdt/p0o5ori9
+    Request content  - [ params ] {"token":"p0o5ori9"} -  [ Response ] HTML_CONTENT_HASHED 49e86b18113142daa4b232b2f9e84f0efd0d3f0ff5588b8cc6883a344b702c1d - [ Status ]  200 
+8/2/2026, 10:08:03 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/toolbar.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:08 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED fcad7f2baa91542d38b40d60f0047b6f2d5eafc035d3205d96a6eb79dd175233 - [ Status ]  200 
+8/2/2026, 10:08:08 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/home-page.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:08 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/toolbar-standalone.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:08 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/home-particles.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:08 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wdt/e2bcjcz3
+    Request content  - [ params ] {"token":"e2bcjcz3"} -  [ Response ] HTML_CONTENT_HASHED 39b07d70005e6b0ce2ce38ed048c1f65acd4551897a7331ecbf1295b1f45f52a - [ Status ]  200 
+8/2/2026, 10:08:08 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/toolbar.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:09 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED fcad7f2baa91542d38b40d60f0047b6f2d5eafc035d3205d96a6eb79dd175233 - [ Status ]  200 
+8/2/2026, 10:08:09 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/home-page.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:09 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/home-particles.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:09 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/toolbar-standalone.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:09 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wdt/lx0osqag
+    Request content  - [ params ] {"token":"lx0osqag"} -  [ Response ] HTML_CONTENT_HASHED 882922ee5e7051d1dc4857b77b504a4d24e435580b5ffb1d285b888d27cfabb2 - [ Status ]  200 
+8/2/2026, 10:08:09 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/toolbar.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:10 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED fcad7f2baa91542d38b40d60f0047b6f2d5eafc035d3205d96a6eb79dd175233 - [ Status ]  200 
+8/2/2026, 10:08:10 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/home-page.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:10 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/toolbar-standalone.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:10 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/home-particles.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:10 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wdt/ysia8sv6
+    Request content  - [ params ] {"token":"ysia8sv6"} -  [ Response ] HTML_CONTENT_HASHED 3a4748b0abdb465e6c699c36d78f5041150f42b319d4274f5df7a700d23044bf - [ Status ]  200 
+8/2/2026, 10:08:10 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/toolbar.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED fcad7f2baa91542d38b40d60f0047b6f2d5eafc035d3205d96a6eb79dd175233 - [ Status ]  200 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/home-page.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/home-particles.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/toolbar-standalone.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wdt/hqca95u7
+    Request content  - [ params ] {"token":"hqca95u7"} -  [ Response ] HTML_CONTENT_HASHED 5915f4bf90fabe95a030d93d87b8561dd7d41af75c5c8d699bdac429c2e508c0 - [ Status ]  200 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/toolbar.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED fcad7f2baa91542d38b40d60f0047b6f2d5eafc035d3205d96a6eb79dd175233 - [ Status ]  200 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/home-page.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/toolbar-standalone.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/home-particles.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wdt/mju2ptrp
+    Request content  - [ params ] {"token":"mju2ptrp"} -  [ Response ] HTML_CONTENT_HASHED f1e54e7f919208c61aa97c84a2e4e9f7fe3864b038926737df093819e7b9cf89 - [ Status ]  200 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/toolbar.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED fcad7f2baa91542d38b40d60f0047b6f2d5eafc035d3205d96a6eb79dd175233 - [ Status ]  200 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/home-page.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/toolbar-standalone.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/home-particles.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wdt/i4wquioq
+    Request content  - [ params ] {"token":"i4wquioq"} -  [ Response ] HTML_CONTENT_HASHED ec455a5efdd9fa65f4ad4290457758fa2c3f8d70e182d9441abfad620995338d - [ Status ]  200 
+8/2/2026, 10:08:11 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/toolbar.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/i4wquioq?panel=performance
+    Request content  - [ query ] {"panel":"performance"} - [ params ] {"token":"i4wquioq"} -  [ Response ] HTML_CONTENT_HASHED fe5fd971fa5e3193bc691e19c6d332263edd184000b7066fd4c48ca14f4459c9 - [ Status ]  200 
+8/2/2026, 10:08:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:14 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/i4wquioq?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"i4wquioq"} -  [ Response ] HTML_CONTENT_HASHED 5cd4beef0b7e035793e6566807652fe8974f202b3ce71b80e094a228575c752a - [ Status ]  200 
+8/2/2026, 10:08:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:16 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:08:17 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED f45a12ec120c1afa7838e4e50452a781e749f1247d1943410c796598b0e7b671 - [ Status ]  200 
+8/2/2026, 10:20:32 PM | ERROR | processPIDReceivedSignal
+8/2/2026, 10:20:32 PM | SUCCESS | finishingProcessWell
+[SERVER] 08/02/2026, 22:27 | SERVER RUNNING | OPTICORE SERVER - Server is running at : [4mhttp://localhost:4200[24m
+[OPTICORE] 08/02/2026, 22:27 | Dependencies container | DEPENDENCIES_CONTAINER - Dependencies stored in container : LoggerCore, OpticoreLogger
+8/2/2026, 10:27:30 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/i4wquioq?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"i4wquioq"} -  [ Response ] HTML_CONTENT_HASHED 875e5c2641c56ab12e570e232ba93886753dc05ca5672967fd0e6827034f36a0 - [ Status ]  200 
+8/2/2026, 10:27:30 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/debug-message.css
+    Request content  -  [ Response ]  - [ Status ]  200 
+8/2/2026, 10:27:30 PM | ERROR |  Not found  [ Host ] http://localhost:4200 - [ Route ] /favicon.ico -  [ Response ]  - [ Status ]  404 
+8/2/2026, 10:27:32 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler
+    Request content  -  [ Response ] HTML_CONTENT_HASHED 026eac4c72ed795257e555e5ded7f0b29bcbb6981fb377392286c7d55635f80e - [ Status ]  200 
+8/2/2026, 10:27:32 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-list.css
+    Request content  -  [ Response ]  - [ Status ]  200 
+8/2/2026, 10:27:32 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-list.js
+    Request content  -  [ Response ]  - [ Status ]  200 
+8/2/2026, 10:27:34 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/latest
+    Request content  -  [ Response ]  - [ Status ]  302 
+8/2/2026, 10:27:34 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/mevt8nel
+    Request content  - [ params ] {"token":"mevt8nel"} -  [ Response ] HTML_CONTENT_HASHED be55fa877fdf1de6b66e796932c444198a612cf75a6427beb9e3aab25ea85109 - [ Status ]  200 
+8/2/2026, 10:27:34 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/debug-message.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:27:37 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /
+    Request content  -  [ Response ] HTML_CONTENT_HASHED c448b393cb2a204b85b3d34c40c7fb9e375a5a4d61a7254a3ecd30f1138d5628 - [ Status ]  200 
+8/2/2026, 10:27:37 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/home-particles.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:27:37 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/home-page.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:27:37 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/toolbar-standalone.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:27:37 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wdt/wwc9bqhn
+    Request content  - [ params ] {"token":"wwc9bqhn"} -  [ Response ] HTML_CONTENT_HASHED d0e2057a3662ade54d9d4ba11b19757b2e8d261d306a65bb112374ff4a756d51 - [ Status ]  200 
+8/2/2026, 10:27:37 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/toolbar.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:27:40 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wwc9bqhn?panel=performance
+    Request content  - [ query ] {"panel":"performance"} - [ params ] {"token":"wwc9bqhn"} -  [ Response ] HTML_CONTENT_HASHED 9efecfb7917b9ca5b2ec18acddc6d58454520b35d345838a7008724fed056a8a - [ Status ]  200 
+8/2/2026, 10:27:40 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:27:40 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:27:43 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wwc9bqhn?panel=logs
+    Request content  - [ query ] {"panel":"logs"} - [ params ] {"token":"wwc9bqhn"} -  [ Response ] HTML_CONTENT_HASHED 32a50347ee424fe7b90edd0786e70177b676d1b81a4799e2e7af1227e68443e2 - [ Status ]  200 
+8/2/2026, 10:27:43 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 10:27:43 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 11:41:42 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wwc9bqhn?panel=routes
+    Request content  - [ query ] {"panel":"routes"} - [ params ] {"token":"wwc9bqhn"} -  [ Response ] HTML_CONTENT_HASHED cd04717fa9a53e9fa9a707a097deba71e7ded6ba118a8ee1316c91e0d86eddc8 - [ Status ]  200 
+8/2/2026, 11:41:42 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 11:41:42 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 11:41:47 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/latest
+    Request content  -  [ Response ]  - [ Status ]  302 
+8/2/2026, 11:41:47 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/wwc9bqhn
+    Request content  - [ params ] {"token":"wwc9bqhn"} -  [ Response ] HTML_CONTENT_HASHED f77f59f59756ea3dcf066fd9b2f4d9d2c129775ea2b426f740b9b3ac2448700b - [ Status ]  200 
+8/2/2026, 11:41:47 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/css/profiler-detail.css
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/2/2026, 11:41:47 PM | INFO | [ Host ] http://localhost:4200 - [ Route ] /_profiler/assets/js/profiler-detail.js
+    Request content  -  [ Response ]  - [ Status ]  304 
+8/3/2026, 12:00:16 AM | SUCCESS | serverWebStopped
+8/3/2026, 12:00:16 AM | SUCCESS | finishingProcessWell
